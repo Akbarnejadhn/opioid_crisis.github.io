@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "Opioid Crisis"
 output: 
   html_document:
     toc: true
@@ -7,6 +7,9 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# This is our data science project website!
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+This is a project for the course [p8105](https://p8105.com/).
+
+![](Opioid-Crisis-in-America-848x548.jpg)
+
